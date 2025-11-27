@@ -1,17 +1,26 @@
-[2025-11-26 14:15:58,091: INFO: main: Welcome to our project Data Science Prediction to the Wine Quality]
-[2025-11-26 14:15:58,092: INFO: main: >>>>>>> stage Data Ingestion Stage started <<<<<<<<<]
-[2025-11-26 14:15:58,094: INFO: common: yaml file : config/config.yaml loaded successfully]
-[2025-11-26 14:15:58,094: INFO: common: yaml file : params.yaml loaded successfully]
-[2025-11-26 14:15:58,095: INFO: common: yaml file : schema.yaml loaded successfully]
-[2025-11-26 14:15:58,096: INFO: common: Created directory at : artifacts]
-[2025-11-26 14:15:58,096: INFO: common: Created directory at : artifacts/data_ingestion]
-[2025-11-26 14:16:01,187: INFO: data_Ingestion: artifacts/data_ingestion/data.zip Download! with following info: 
+[2025-11-26 16:08:06,857: INFO: main: Welcome to our project Data Science Prediction to the Wine Quality]
+[2025-11-26 16:08:06,857: INFO: main: >>>>>>> stage Data Ingestion Stage started <<<<<<<<<]
+[2025-11-26 16:08:06,870: INFO: common: yaml file : config/config.yaml loaded successfully]
+[2025-11-26 16:08:06,876: INFO: common: yaml file : params.yaml loaded successfully]
+[2025-11-26 16:08:06,888: INFO: common: yaml file : schema.yaml loaded successfully]
+[2025-11-26 16:08:06,898: INFO: common: Created directory at : artifacts]
+[2025-11-26 16:08:06,899: INFO: common: Created directory at : artifacts/data_ingestion]
+[2025-11-26 16:08:10,680: INFO: data_Ingestion: artifacts/data_ingestion/data.zip Download! with following info: 
  Server: nginx/1.29.3
-Date: Wed, 26 Nov 2025 19:15:59 GMT
+Date: Wed, 26 Nov 2025 21:08:08 GMT
 Transfer-Encoding: chunked
 Connection: close
 
 ]
-[2025-11-26 14:16:01,192: INFO: main: >>>>>>> stage Data Ingestion Stage completed <<<<<<<<<
+[2025-11-26 16:08:10,688: INFO: main: >>>>>>> stage Data Ingestion Stage completed <<<<<<<<<
+
+x==========x]
+[2025-11-26 16:08:10,689: INFO: main: >>>>>>> stage Data Validation Stage started <<<<<<<<<]
+[2025-11-26 16:08:10,694: INFO: common: yaml file : config/config.yaml loaded successfully]
+[2025-11-26 16:08:10,696: INFO: common: yaml file : params.yaml loaded successfully]
+[2025-11-26 16:08:10,703: INFO: common: yaml file : schema.yaml loaded successfully]
+[2025-11-26 16:08:10,704: INFO: common: Created directory at : artifacts]
+[2025-11-26 16:08:10,705: INFO: common: Created directory at : artifacts/data_validation]
+[2025-11-26 16:08:10,716: INFO: main: >>>>>>> stage Data Validation Stage completed <<<<<<<<<
 
 x==========x]
